@@ -1,0 +1,20 @@
+{
+  "name": "bases-node",
+  "version": "1.0.0",
+  "description": "prueba de calculadora",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prueba": "node app --base=30"
+  },
+  "keywords": [
+    "nodeJS"
+  ],
+  "author": "AZAHEL",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.2.1"
+  },
+  "devDependencies": {}
+}
